@@ -1,0 +1,15 @@
+E:\FIV\GUI_MQTT\GUI_MQTT\bin\Debug\GUI_MQTT.exe.config
+E:\FIV\GUI_MQTT\GUI_MQTT\bin\Debug\GUI_MQTT.exe
+E:\FIV\GUI_MQTT\GUI_MQTT\bin\Debug\GUI_MQTT.pdb
+E:\FIV\GUI_MQTT\GUI_MQTT\bin\Debug\M2Mqtt.Net.dll
+E:\FIV\GUI_MQTT\GUI_MQTT\bin\Debug\MQTTnet.dll
+E:\FIV\GUI_MQTT\GUI_MQTT\bin\Debug\MQTTnet.Extensions.ManagedClient.dll
+E:\FIV\GUI_MQTT\GUI_MQTT\bin\Debug\M2Mqtt.Net.pdb
+E:\FIV\GUI_MQTT\GUI_MQTT\obj\Debug\GUI_MQTT.csproj.AssemblyReference.cache
+E:\FIV\GUI_MQTT\GUI_MQTT\obj\Debug\GUI_MQTT.Properties.Resources.resources
+E:\FIV\GUI_MQTT\GUI_MQTT\obj\Debug\GUI_MQTT.csproj.GenerateResource.cache
+E:\FIV\GUI_MQTT\GUI_MQTT\obj\Debug\GUI_MQTT.csproj.CoreCompileInputs.cache
+E:\FIV\GUI_MQTT\GUI_MQTT\obj\Debug\GUI_MQTT.csproj.CopyComplete
+E:\FIV\GUI_MQTT\GUI_MQTT\obj\Debug\GUI_MQTT.exe
+E:\FIV\GUI_MQTT\GUI_MQTT\obj\Debug\GUI_MQTT.pdb
+E:\FIV\GUI_MQTT\GUI_MQTT\obj\Debug\GUI_MQTT.btt_Lichtaus.resources
